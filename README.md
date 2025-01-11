@@ -1,7 +1,7 @@
-# Hallo human, my name is Putra Febrian, Great to see ya :)
+# Hello human, my name is Putra Febrian, Great to see you :)
 
 
-![Hello png](/Hello.png)
+![darling.jpg](/ZerroTwo.jpeg)
 <!--
 **Putra-02/Putra-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
