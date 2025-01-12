@@ -1,4 +1,6 @@
-# Hello human, my name is Putra Febrian, Great to see you :)
+# Hai👋 everyone!
+## My name is Putra Febrian, I am students of SMKN 3 Bengkulu city. and iam interest for Frond-end and back-end Development.  
+*Great to see you :)*
 
 
 ![darling_02.jpg](/Darling_02.jpg)
