@@ -1,5 +1,6 @@
 # Hai👋 everyone!
 ## My name is Putra Febrian, I am students of SMKN 3 Bengkulu city. and iam interest for Frond-end and back-end Development.  
+💡 "Backend might feel like a maze in the beginning, but the path gets clearer with each line of code."
 *Great to see you :)*
 
 
