@@ -1,4 +1,5 @@
-<h2 align="left">Hi, Everyone,👋! My name is Putra and I'm a student of SMKN 3 Bengkulu city. i am interest for Frond-end and back-end Development.</h2>
+<h2 align="left">Hi, Everyone,👋! </h2>
+<h2> My name is Putra and I'm a student of SMKN 3 Bengkulu city. i am interest for Frond-end and back-end Development.</h2>
 
 ###
 
