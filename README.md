@@ -82,16 +82,13 @@
 </div>
 
 ---
-<table align="center" style="border-collapse: collapse; margin-top: 0px;">
-  <tr>
-    <td style="border: none; padding: 0;">
-      <img src="https://c.tenor.com/ncG_MAZMC9EAAAAC/kaguya-shinomiya-kaguya.gif" alt="Kaguya Shinomiya waving" height="220" />
-    </td>
-    <td style="border: none; padding-left: 0px; vertical-align: middle;">
-      <h2 style="margin: 0;"> Strive for progress not perfection</h2>
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; align-items: flex-start; gap: 20px; margin-top: 20px;">
+  <img src="https://c.tenor.com/ncG_MAZMC9EAAAAC/kaguya-shinomiya-kaguya.gif" alt="Kaguya Shinomiya waving" height="220" />
+  <h2 style="margin: 0;">Strive for progress not perfection, but i wanna sleep first😴</h2>
+</div>
+
+
+
 
 
 
