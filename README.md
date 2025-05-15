@@ -1,56 +1,103 @@
-<h2 align="left">Hi, Everyone,👋! </h2>
-<h2> My name is Putra and I'm a student of SMKN 3 Bengkulu city. i am interest for Front-end and Back-end Development.</h2>
+<h2 align="left">Hello Everyone! 👋</h2>
 
-###
+<p>
+  My name is <strong>Putra Febrian</strong>, a student at SMKN 3 Bengkulu city.
+</p>
+
+<p>
+  I am passionate about both Front-end and Back-end Development, continuously learning and growing in the world of software development.
+</p>
+
+<p>
+  Besides programming, I also have strong skills in networking technologies including Cisco, Mikrotik, VSAT, Fiber Optics, and Radio Link.
+</p>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=febrian-tekno&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=febrian-tekno%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=febrian-tekno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=febrian-tekno&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=febrian-tekno%20Stats" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=febrian-tekno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-###
+---
 
+<h2 align="left">🛠️ Tech Stack</h2>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="35" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" alt="googlecloud logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
 </div>
 
-###
+---
 
-<br clear="both">
-
-<img align="right" height="150" src="https://c.tenor.com/ncG_MAZMC9EAAAAC/kaguya-shinomiya-kaguya.gif"  />
-
-###
-
+<h2 align="left">🌐 Networking Technologies</h2>
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <a href="https://instagram.com/putra_febriann_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.icons8.com/color/48/000000/cisco-logo.png" alt="Cisco" height="40" />
+  <img width="15" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/mikrotik.png" alt="Mikrotik" height="40" />
+  <img width="15" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/satellite-communication.png" alt="VSAT" height="40" />
+  <img width="15" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/fiber-optic-cable.png" alt="Fiber Optic" height="40" />
+  <img width="15" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/radio-tower.png" alt="Radio Link" height="40" />
+</div>
+
+---
+
+<h2 align="left">📫 Connect with me</h2>
+<div align="center">
+  <a href="https://youtube.com/yourchannel" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40" alt="youtube logo" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://instagram.com/putra_febriann_" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="instagram logo" />
+  </a>
+  <a href="https://twitch.tv/yourchannel" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" height="40" alt="twitch logo" />
+  </a>
+  <a href="https://discord.gg/yourserver" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="40" alt="discord logo" />
+  </a>
+  <a href="mailto:putra@example.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="gmail logo" />
+  </a>
+  <a href="https://linkedin.com/in/putra-febrian" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="linkedin logo" />
+  </a>
 </div>
 
-###
+---
+<table align="center" style="border-collapse: collapse; margin-top: 0px;">
+  <tr>
+    <td style="border: none; padding: 0;">
+      <img src="https://c.tenor.com/ncG_MAZMC9EAAAAC/kaguya-shinomiya-kaguya.gif" alt="Kaguya Shinomiya waving" height="220" />
+    </td>
+    <td style="border: none; padding-left: 0px; vertical-align: middle;">
+      <h2 style="margin: 0;"> Strive for progress not perfection</h2>
+    </td>
+  </tr>
+</table>
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/febrian-tekno/febrian-tekno/output/snake.svg" alt="Snake animation" />
 
-###
+---
+<h2>🐍 Snake Animation</h2>
+<!-- Snake animation: gunakan gambar svg statis -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/febrian-tekno/febrian-tekno/output/snake.svg" alt="Snake animation" />
+</p>
