@@ -1,4 +1,4 @@
-<h2 align="left">Hello Everyone! 👋</h2>
+![image](https://github.com/user-attachments/assets/3c5fe0d0-b93d-4cfe-82c2-3dce86480212)<h2 align="left">Hello Everyone! 👋</h2>
 
 <p>
   My name is <strong>Putra Febrian</strong>, a student at SMKN 3 Bengkulu city.
@@ -37,7 +37,7 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
+  <img src="https://img.icons8.com/?size=100&id=e6uRfPIDgoXi&format=png&color=000000" height="40" alt="AWS" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
 </div>
@@ -46,15 +46,17 @@
 
 <h2 align="left">🌐 Networking Technologies</h2>
 <div align="left">
-  <img src="https://img.icons8.com/color/48/000000/cisco-logo.png" alt="Cisco" height="40" />
+  <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/cisco-512.png" alt="Cisco" height="40" />
   <img width="15" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/mikrotik.png" alt="Mikrotik" height="40" />
+  <img src="https://merch.mikrotik.com/cdn/shop/files/512.png" alt="Mikrotik" height="40" />
   <img width="15" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/satellite-communication.png" alt="VSAT" height="40" />
+  <img src="https://companieslogo.com/img/orig/FTNT-745f92ba.png?t=1720244491" alt="Fortinet" height="40" />
   <img width="15" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/fiber-optic-cable.png" alt="Fiber Optic" height="40" />
+  <img src="https://www.kindpng.com/picc/m/733-7333827_transparent-satellite-icon-png-sat-icon-png-png.png" alt="VSAT" height="40" />
   <img width="15" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/radio-tower.png" alt="Radio Link" height="40" />
+  <img src="https://icon-library.com/images/fiber-optics-icon/fiber-optics-icon-26.jpg" alt="Fiber Optic" height="40" />
+  <img width="15" />
+  <img src="https://icons.iconarchive.com/icons/icons-land/buildings/256/Radio-Transmitter-Antenna-icon.png" alt="Radio Link" height="40" />
 </div>
 
 ---
