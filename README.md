@@ -65,24 +65,24 @@
 
 <h2 align="left">📫 Connect with me</h2>
 <div align="center">
-  <a href="https://youtube.com/yourchannel" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40" alt="youtube logo" />
-  </a>
   <a href="https://instagram.com/putra_febriann_" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="instagram logo" />
   </a>
-  <a href="https://twitch.tv/yourchannel" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:putraf9207@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="gmail logo" />
+  </a>
+  <!-- <a href="https://twitch.tv/yourchannel" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" height="40" alt="twitch logo" />
   </a>
   <a href="https://discord.gg/yourserver" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="40" alt="discord logo" />
   </a>
-  <a href="mailto:putra@example.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="gmail logo" />
+   <a href="https://youtube.com/yourchannel" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40" alt="youtube logo" />
   </a>
   <a href="https://linkedin.com/in/putra-febrian" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="linkedin logo" />
-  </a>
+  </a> -->
 </div>
 
 ---
