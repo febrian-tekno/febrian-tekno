@@ -1,16 +1,19 @@
-<h2 align="left">Hello Everyone! 👋</h2>
+## Freut Mich! 👋
+I'm **Putra Febrian**, a software developer with a deep passion for building and understanding how systems work — both in software and networking. I enjoy working across the full stack, from crafting responsive front-end interfaces to designing efficient and scalable backend systems.
 
-<p>
-  My name is <strong>Putra Febrian</strong>, a student at SMKN 3 Bengkulu city.
-</p>
+Beyond coding, I also have practical experience and advance knowledge in network engineering.
 
-<p>
-  I am passionate about both Front-end and Back-end Development, continuously learning and growing in the world of software development.
-</p>
+### 💡 What drives me
+- Solving problems through clean, efficient, and maintainable code  
+- Continuously learning and challenging myself with new concepts  
+- Turning ideas into functional and meaningful digital solutions  
 
-<p>
-  Besides programming, I also have strong skills in networking technologies including Cisco, Mikrotik, VSAT, Fiber Optics, and Radio Link.
-</p>
+### 🧠 Currently exploring
+- Designing secure and reliable API systems  
+- Building scalable back-end services  
+- Deepening my understanding of real-world network infrastructures  
+
+I'm always open to collaboration, discussion, or simply connecting with fellow tech enthusiasts. Let's build and grow together 🚀
 
 ---
 
