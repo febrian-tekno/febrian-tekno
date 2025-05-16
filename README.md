@@ -31,6 +31,8 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
   <img width="15" />
+  <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=999999" height="40" alt="Express JS" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -85,7 +87,7 @@
 
 ---
 <div align="center" style="display: flex; align-items: flex-start; gap: 20px; margin-top: 20px;">
-  <img src="https://c.tenor.com/ncG_MAZMC9EAAAAC/kaguya-shinomiya-kaguya.gif" alt="Kaguya Shinomiya waving" height="220" />
+  <img src="https://gifdb.com/images/high/kobato-hanato-anime-sleeping-2asws3ydn30izv95.gif" alt="sleeping gif" height="220" />
   <h2 style="margin: 0;">Strive for progress not perfection, but i wanna sleep first😴</h2>
 </div>
 
