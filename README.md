@@ -1,14 +1,14 @@
 ## Freut Mich! 👋
 I'm **Putra Febrian**, a software developer with a deep passion for building and understanding how systems work — both in software and networking. I enjoy working across the full stack, from crafting responsive front-end interfaces to designing efficient and scalable backend systems.
 
-Beyond coding, I also have practical experience and advance knowledge in network engineering.
+Beyond coding, I also have practical experience and advanced knowledge in network engineering.
 
 ### 💡 My Core Motivations
 - Solving problems through clean, efficient, and maintainable code  
 - Continuously learning and challenging myself with new concepts  
 - Turning ideas into functional and meaningful digital solutions  
 
-I'm always open to collaboration, discussion, or simply connecting with fellow tech enthusiasts. Let's build and grow together 🚀
+I'm always open to collaboration, discussion, or simply connecting with fellow tech enthusiasts. Let's build and grow together! 🚀
 
 ---
 
