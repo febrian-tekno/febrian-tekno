@@ -8,11 +8,6 @@ Beyond coding, I also have practical experience and advance knowledge in network
 - Continuously learning and challenging myself with new concepts  
 - Turning ideas into functional and meaningful digital solutions  
 
-### 🧠 Currently exploring
-- Designing secure and reliable API systems  
-- Building scalable back-end services  
-- Deepening my understanding of real-world network infrastructures  
-
 I'm always open to collaboration, discussion, or simply connecting with fellow tech enthusiasts. Let's build and grow together 🚀
 
 ---
