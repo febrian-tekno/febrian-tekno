@@ -3,7 +3,7 @@ I'm **Putra Febrian**, a software developer with a deep passion for building and
 
 Beyond coding, I also have practical experience and advance knowledge in network engineering.
 
-### 💡 What drives me
+### 💡 My Core Motivations
 - Solving problems through clean, efficient, and maintainable code  
 - Continuously learning and challenging myself with new concepts  
 - Turning ideas into functional and meaningful digital solutions  
@@ -31,6 +31,10 @@ I'm always open to collaboration, discussion, or simply connecting with fellow t
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="25" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/410px-Vitejs-logo.svg.png?20220412224743" height="40" alt="Vite" />
+  <img width="15" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" height="40" alt="Tailwindcss" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
