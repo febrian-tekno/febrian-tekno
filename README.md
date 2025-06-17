@@ -79,10 +79,10 @@ I'm always open to collaboration, discussion, or simply connecting with fellow t
   </a>
    <a href="https://youtube.com/yourchannel" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40" alt="youtube logo" />
-  </a>
+  </a>-->
   <a href="https://linkedin.com/in/putra-febrian" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="linkedin logo" />
-  </a> -->
+  </a> 
 </div>
 
 ---
