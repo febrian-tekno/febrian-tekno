@@ -18,48 +18,26 @@ I'm always open to collaboration, discussion, or simply connecting with fellow t
 </div>
 
 ---
+### 🛠️ Tech Stack
+<a href="https://www.mongodb.com/"><img height="50" src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+<a href="https://expressjs.com/"><img height="50" src="https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
+<a href="https://vuejs.org/"><img height="50" src="https://img.shields.io/badge/Vue.js-%2342B883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" /></a>
+<a href="https://nodejs.org/"><img height="50" src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img height="50" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+<a href="https://vitejs.dev/"><img height="50" src="https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /></a>
+<a href="https://tailwindcss.com/"><img height="50" src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img height="50" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img height="50" src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
+<a href="https://aws.amazon.com/"><img height="50" src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /></a>
+<a href="https://cloud.google.com/"><img height="50" src="https://img.shields.io/badge/Google_Cloud-%234285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" /></a>
 
-<h2 align="left">🛠️ Tech Stack</h2>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img width="15" />
-  <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=999999" height="40" alt="Express JS" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="25" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/410px-Vitejs-logo.svg.png?20220412224743" height="40" alt="Vite" />
-  <img width="15" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" height="40" alt="Tailwindcss" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="15" />
-  <img src="https://img.icons8.com/?size=100&id=e6uRfPIDgoXi&format=png&color=000000" height="40" alt="AWS" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
-</div>
-
----
-
-<h2 align="left">🌐 Networking Technologies</h2>
-<div align="left">
-  <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/cisco-512.png" alt="Cisco" height="40" />
-  <img width="15" />
-  <img src="https://merch.mikrotik.com/cdn/shop/files/512.png" alt="Mikrotik" height="40" />
-  <img width="15" />
-  <img src="https://companieslogo.com/img/orig/FTNT-745f92ba.png?t=1720244491" alt="Fortinet" height="40" />
-  <img width="15" />
-  <img src="https://www.kindpng.com/picc/m/733-7333827_transparent-satellite-icon-png-sat-icon-png-png.png" alt="VSAT" height="40" />
-  <img width="15" />
-  <img src="https://icon-library.com/images/fiber-optics-icon/fiber-optics-icon-26.jpg" alt="Fiber Optic" height="40" />
-  <img width="15" />
-  <img src="https://icons.iconarchive.com/icons/icons-land/buildings/256/Radio-Transmitter-Antenna-icon.png" alt="Radio Link" height="40" />
-</div>
+### 🌐 Networking Technologies
+<a href="https://www.cisco.com/"><img height="50" src="https://img.shields.io/badge/Cisco-%231BA0E2?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" /></a>
+<a href="https://mikrotik.com/"><img height="50" src="https://img.shields.io/badge/MikroTik-%23EE6133?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" /></a>
+<a href="https://www.fortinet.com/"><img height="50" src="https://img.shields.io/badge/Fortinet-%23EF3E36?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet" /></a>
+<a href="#"><img height="50" src="https://img.shields.io/badge/VSAT-%23005288?style=for-the-badge&logo=versat-systems&logoColor=white" alt="VSAT" /></a>
+<a href="#"><img height="50" src="https://img.shields.io/badge/Fiber_Optic-%23FF6600?style=for-the-badge&logo=optic-fiber&logoColor=white" alt="Fiber Optic" /></a>
+<a href="#"><img height="50" src="https://img.shields.io/badge/Radio_Link-%234CAF50?style=for-the-badge&logo=radio-tower&logoColor=white" alt="Radio Link" /></a>
 
 ---
 
