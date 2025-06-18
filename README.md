@@ -35,8 +35,8 @@ I'm always open to collaboration, discussion, or simply connecting with fellow t
 <a href="https://www.cisco.com/"><img height="40" src="https://img.shields.io/badge/Cisco-%231BA0E2?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" /></a>
 <a href="https://mikrotik.com/"><img height="40" src="https://img.shields.io/badge/MikroTik-%23EE6133?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" /></a>
 <a href="https://www.fortinet.com/"><img height="40" src="https://img.shields.io/badge/Fortinet-%23EF3E36?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet" /></a>
-<a href="#"><img height="40" src="https://img.shields.io/badge/VSAT-%23005288?style=for-the-badge&logo=versat-systems&logoColor=white" alt="VSAT" /></a>
-<a href="#"><img height="40" src="https://img.shields.io/badge/Fiber_Optic-%23FF6600?style=for-the-badge&logo=optic-fiber&logoColor=white" alt="Fiber Optic" /></a>
+<a href="#"><img height="40" src="https://img.shields.io/badge/VSAT-%23005288?style=for-the-badge&logo=vsat&logoColor=white" alt="VSAT" /></a>
+<a href="#"><img height="40" src="https://img.shields.io/badge/Fiber_Optic-%23FF6600?style=for-the-badge&logo=fiber-optic&logoColor=white" alt="Fiber Optic" /></a>
 <a href="#"><img height="40" src="https://img.shields.io/badge/Radio_Link-%234CAF50?style=for-the-badge&logo=radio-tower&logoColor=white" alt="Radio Link" /></a>
 
 ---
