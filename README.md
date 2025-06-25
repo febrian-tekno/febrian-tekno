@@ -18,7 +18,7 @@ I'm always open to collaboration, discussion, or simply connecting with fellow t
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=febrian-tekno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
----
+--- 
 ### 🛠️ Tech Stack
 <a href="https://www.mongodb.com/"><img height="40" src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
 <a href="https://expressjs.com/"><img height="40" src="https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
